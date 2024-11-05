@@ -5,7 +5,7 @@
         "fields": {
             "title": "Art Contemporain",
             "description": "Collection d'art contemporain regroupant des œuvres récentes et avant-gardistes.",
-            "created_at": "2024-10-01"
+            "date_creation": "2024-10-01"
         }
     },
     {
@@ -14,7 +14,7 @@
         "fields": {
             "title": "Photographies Anciens",
             "description": "Une collection de photographies anciennes, datant principalement du 19ème siècle.",
-            "created_at": "2024-10-01"
+            "date_creation": "2024-10-01"
         }
     },
     {
@@ -23,7 +23,7 @@
         "fields": {
             "title": "Livres Rares",
             "description": "Des livres rares et précieux, dont certains datent du Moyen Âge.",
-            "created_at": "2024-10-02"
+            "date_creation": "2024-10-02"
         }
     },
     {
@@ -32,7 +32,7 @@
         "fields": {
             "title": "Objets Vintage",
             "description": "Objets vintage des années 50 et 60, allant des meubles aux accessoires.",
-            "created_at": "2024-10-02"
+            "date_creation": "2024-10-02"
         }
     },
     {
@@ -41,7 +41,7 @@
         "fields": {
             "title": "Vinyles des Années 70",
             "description": "Une collection de vinyles iconiques des années 70, couvrant divers genres musicaux.",
-            "created_at": "2024-10-03"
+            "date_creation": "2024-10-03"
         }
     },
     {
@@ -50,7 +50,7 @@
         "fields": {
             "title": "Timbres du Monde",
             "description": "Une collection de timbres postaux provenant de différents pays et périodes.",
-            "created_at": "2024-10-03"
+            "date_creation": "2024-10-03"
         }
     },
     {
@@ -59,7 +59,7 @@
         "fields": {
             "title": "Bandes Dessinées Classiques",
             "description": "Collection de bandes dessinées classiques, avec des séries célèbres telles que Tintin et Astérix.",
-            "created_at": "2024-10-04"
+            "date_creation": "2024-10-04"
         }
     },
     {
@@ -68,7 +68,7 @@
         "fields": {
             "title": "Monnaies Anciennes",
             "description": "Une collection de monnaies anciennes, allant de l'Empire romain aux premières monnaies modernes.",
-            "created_at": "2024-10-04"
+            "date_creation": "2024-10-04"
         }
     },
     {
@@ -77,7 +77,7 @@
         "fields": {
             "title": "Jouets Rétro",
             "description": "Collection de jouets rétro des années 80, dont certains modèles sont devenus des objets de collection prisés.",
-            "created_at": "2024-10-05"
+            "date_creation": "2024-10-05"
         }
     },
     {
@@ -86,7 +86,7 @@
         "fields": {
             "title": "Météorites",
             "description": "Une collection de météorites provenant de différentes parties du monde.",
-            "created_at": "2024-10-05"
+            "date_creation": "2024-10-05"
         }
     },
     {
@@ -95,7 +95,7 @@
         "fields": {
             "title": "Instruments de Musique",
             "description": "Une collection d'instruments de musique anciens, y compris des violons, guitares et pianos.",
-            "created_at": "2024-10-06"
+            "date_creation": "2024-10-06"
         }
     },
     {
@@ -104,7 +104,7 @@
         "fields": {
             "title": "Céramiques d'Antiquité",
             "description": "Des céramiques antiques provenant de diverses civilisations anciennes, dont la Grèce et la Chine.",
-            "created_at": "2024-10-06"
+            "date_creation": "2024-10-06"
         }
     }
 ]
